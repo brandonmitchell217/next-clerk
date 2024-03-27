@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Brandon-s-workspace-17i2de.us-east-1.xata.sh/db/test-auth-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
